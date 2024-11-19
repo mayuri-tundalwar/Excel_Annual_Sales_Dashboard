@@ -31,3 +31,5 @@ This analysis focuses on bridging gaps in marketing strategies to:
 1. Engage the most influential demographic.
 2. Leverage top-performing geographic regions.
 3. Optimize sales through preferred online platforms.
+
+![Sales Dashboard Image](https://github.com/user-attachments/assets/19402792-17c0-4139-9e0f-45b2b5db5240)
