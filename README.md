@@ -23,8 +23,8 @@ This repository contains:
 4. Recommendations: Actionable suggestions for boosting sales performance.
 
 # Tools and Technologies
-Excel: Data cleaning and preprocessing.
-Pivot Table: Helps to create dashboard and charts.
+1. Excel: Data cleaning and preprocessing.
+2. Pivot Table: Helps to create dashboard and charts.
 
 # Key Takeaways
 This analysis focuses on bridging gaps in marketing strategies to:
